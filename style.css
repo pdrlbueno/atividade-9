@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    margin-bottom: 10%;
+    text-align: left;
+    padding: 10px;
+    background-color: #ccc;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 6px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0
+}
+
+button {
+    padding: 8px 12px
+}
+
+.msg {
+    color: red
+}
