@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     if (isset($_POST)['meuBotao'])){
-      header("Location: cadastro.html");
+      header("Location: cadastro.php");
     }
 }
 ?>

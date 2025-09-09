@@ -17,7 +17,7 @@ echo "Erro " . $sql . '<br>' . $conn->error;
 }
 $conn->close();
 
-header("Location: public.html");
+header("Location: public.php");
 }
 
 ?>
